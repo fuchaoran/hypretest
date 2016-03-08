@@ -1,0 +1,4 @@
+/home/labuser/Documents/hypre-2.10.1/src/cmbuild/CMakeFiles/HYPRE.dir
+/home/labuser/Documents/hypre-2.10.1/src/cmbuild/FEI_mv/fei-hypre/CMakeFiles/HYPRE_fei.dir
+/home/labuser/Documents/hypre-2.10.1/src/cmbuild/FEI_mv/SuperLU/CMakeFiles/HYPRE_superlu.dir
+/home/labuser/Documents/hypre-2.10.1/src/cmbuild/FEI_mv/femli/CMakeFiles/HYPRE_mli.dir

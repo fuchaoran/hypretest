@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/HYPRE_superlu.dir/SRC/colamd.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/dcolumn_bmod.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/dcolumn_dfs.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/dcopy_to_ucol.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/dgscon.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/dgsequ.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/dgsrfs.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/dgssv.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/dgssvx.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/dgstrf.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/dgstrs.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/dlacon.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/dlangs.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/dlaqgs.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/dmemory.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/dpanel_bmod.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/dpanel_dfs.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/dpivotgrowth.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/dpivotL.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/dpruneL.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/dreadhb.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/dsnode_bmod.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/dsnode_dfs.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/dsp_blas2.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/dsp_blas3.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/dutil.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/get_perm_c.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/heap_relax_snode.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/memory.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/mmd.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/relax_snode.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/sp_coletree.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/sp_ienv.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/sp_preorder.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/superlu_timer.c.o"
+  "CMakeFiles/HYPRE_superlu.dir/SRC/slu_util.c.o"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/HYPRE_superlu.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
